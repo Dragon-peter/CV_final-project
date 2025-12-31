@@ -3,12 +3,11 @@
 **Course:** Computer Vision (CS460D1), Macau University of Science and Technology  
 **Date:** December 2025  
 
-## 👥 Team Members
+##  Team Members
 * **Zhao Longyu** (5250001412)
 * **Wen Haoyu** (1220008351)
-* **Han Shixuan** (23308109)  <-- 已补上，非常重要！
 
-## 📖 Project Overview
+##  Project Overview
 This project implements a robust image retrieval system capable of identifying landmarks from "noisy" user-generated content. It integrates:
 * **DELG (Deep Local and Global features):** For attention-based feature extraction.
 * **FAISS:** For high-speed similarity search.
